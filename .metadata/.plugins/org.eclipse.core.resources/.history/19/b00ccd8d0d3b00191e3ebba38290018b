@@ -1,0 +1,16 @@
+package com.test.data.practice;
+
+
+
+public class Test {
+	
+	WebDriver driver;
+
+	
+	@Test
+	public void Webdriverdata()
+	{
+			driver = new ChromeDriver();
+
+}
+}
